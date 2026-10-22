@@ -1,0 +1,4 @@
+*.sqlite*
+backend/
+.agents/
+skills-lock.json
